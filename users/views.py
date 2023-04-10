@@ -1,4 +1,3 @@
-
 from django.contrib.auth import authenticate, login, get_user_model
 from django.contrib.auth.views import LoginView
 from django.core.exceptions import ValidationError
