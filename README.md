@@ -12,9 +12,11 @@ Inside the users app we have:
   - forms.py file which has a username, password, and password confirmation. 
   
 Inside neo1auth directory we the urls.py file with needed paths like 
-  - register/, 
-  - login/,
-  - logout/,
+  - /users/register/, 
+  - /users/login/,
+  - /users/password_reset/,
+  - /users/confirm_email/,
+  -/users/confirm_password/
   - home/
 
 ### Installation:
