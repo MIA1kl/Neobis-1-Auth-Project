@@ -27,14 +27,28 @@ This project lets users register and then authorize in app with password validat
 
 - Registration page: 
 
-![Screenshot of a registration page.](https://github.com/MIA1kl/Neobis_Python_Auth_Project/blob/main/screenshots/registration_screen.png?raw=true)
+![Screenshot of a registration page.](https://github.com/MIA1kl/Neobis_Python_Auth_Project/blob/main/screenshots/registration_view.png?raw=true)
+
+- Verification of email: 
+
+![Screenshot of a registration page.](https://github.com/MIA1kl/Neobis_Python_Auth_Project/blob/main/screenshots/verify_screen.png?raw=true)
+
+![Screenshot of a registration page.](https://github.com/MIA1kl/Neobis_Python_Auth_Project/blob/main/screenshots/verify_view.png?raw=true)
 
 - Login page:
 
-![Screenshot of a login page.](https://github.com/MIA1kl/Neobis_Python_Auth_Project/blob/main/screenshots/login_screen.png?raw=true)
+![Screenshot of a login page.](https://github.com/MIA1kl/Neobis_Python_Auth_Project/blob/main/screenshots/login_view.png?raw=true)
 
 - Home page:
 
-![Screenshot of a home page.](https://github.com/MIA1kl/Neobis_Python_Auth_Project/blob/main/screenshots/home_screen.png?raw=true)
+![Screenshot of a home page.](https://github.com/MIA1kl/Neobis_Python_Auth_Project/blob/main/screenshots/home_view.png?raw=true)
+
+- Password reset: 
+
+![Screenshot of a registration page.](https://github.com/MIA1kl/Neobis_Python_Auth_Project/blob/main/screenshots/password_view.png?raw=true)
+
+![Screenshot of a registration page.](https://github.com/MIA1kl/Neobis_Python_Auth_Project/blob/main/screenshots/reset_view.png?raw=true)
+
+![Screenshot of a registration page.](https://github.com/MIA1kl/Neobis_Python_Auth_Project/blob/main/screenshots/new_password.png?raw=true)
 
 
